@@ -1,20 +1,19 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/kjXMU4dl8lAAAAAC/hello-world.gif" alt="MasterHead" width="100%" />
+  <!-- Coding GIF -->
+<img align="right" alt="coding" width="100%" src="https://i.pinimg.com/originals/39/38/77/3938775fa4484f170466ecfa6da4e662.gif" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Faith Mutua</h1>
 
-<!-- Coding GIF -->
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/39/38/77/3938775fa4484f170466ecfa6da4e662.gif" />
-
+<
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=faithmutua-code&label=Profile%20views&color=0e75b6&style=flat" alt="faithmutua-code" />
 </p>
 
 <h3 align="center">A passionate web developer from Kenya</h3>
 
-## How it Started
 
+<h3 align="center">A passionate web developer from Kenya</h3>
 My coding journey began with a spark of curiosity and apassion for creativity. What started as simple HTML experiments quickly grew into a full-blown love for building interactive user experiences with JavaScript and React. Over time, I’ve immersed myself in the world of frontend development, constantly learning and pushing myself to master new tools and technologies. From late-night debugging sessions to that first "it works!" moment — every step has shaped the developer I am today.
 
 ### 👨‍💻 Quick Facts:
