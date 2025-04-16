@@ -11,11 +11,12 @@
 </p>
 
 
-
+<hr>
 
 i am a passionate web developer from Kenya. 
 My coding journey began with a spark of curiosity and apassion for creativity. What started as simple HTML experiments quickly grew into a full-blown love for building interactive user experiences with JavaScript and React. Over time, I’ve immersed myself in the world of frontend development, constantly learning and pushing myself to master new tools and technologies. From late-night debugging sessions to that first "it works!" moment — every step has shaped the developer I am today.
 
+<hr>
 ### 👨‍💻 Quick Facts:
 - 👀 Interested in learning new web technologies and creating visually appealing web interfaces.
 - 🌱 Currently learning **Node.js, Express** and improving my **front-end skills**.
@@ -25,7 +26,7 @@ My coding journey began with a spark of curiosity and apassion for creativity. W
 - ⚡ Fun fact: **Dark theme all day, every day** 😎.
 
 ---
-
+<hr>
 ### 📱 Connect with me:
 
 <p align="left">
@@ -35,7 +36,7 @@ My coding journey began with a spark of curiosity and apassion for creativity. W
 </p>
 
 ---
-
+<hr>
 ### 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -61,6 +62,7 @@ My coding journey began with a spark of curiosity and apassion for creativity. W
 </p>
 
 
+<hr>
 
 <p align="center">
   Thanks for visiting my profile! 😊<br/>
