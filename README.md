@@ -15,10 +15,13 @@
 
 <h3 align="center">A passionate  web developer from Kenya</h3>
 
-✨ How It Started
+<p>✨ How It Started </p>
 My coding journey began with a spark of curiosity and a passion for creativity. What started as simple HTML experiments quickly grew into a full-blown love for building interactive user experiences with JavaScript and React. Over time, I’ve immersed myself in the world of frontend development, constantly learning and pushing myself to master new tools and technologies. From late-night debugging sessions to that first "it works!" moment — every step has shaped the developer I am today.
 
-- 🌱 I’m currently learning **Node.js and Express**
+<p>About me</p>
+- 👀 I’m interested in  learning new web technologies and creating  visually appealing web interfaces
+- 🌱 I’m currently learning **Node.js and Express and improving my front-end skills**
+- 🔍 Open to collaborating on web development project and learning new skill
 - 💬 Ask me about **React**
 - 📫 How to reach me: **charlesfaith157@gmail.com**
 - ⚡ Fun fact: **✨ Dark theme all day, every day 😎**
