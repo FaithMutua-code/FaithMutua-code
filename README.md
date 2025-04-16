@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/Wx9IgtK7a9MAAAAC/hello-world.gif" alt="MasterHead" width="100%" />
+  <img src="https://media1.tenor.com/m/kjXMU4dl8lAAAAAC/hello-world.gif" alt="MasterHead" width="100%" />
 </p>
 
 
