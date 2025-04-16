@@ -1,33 +1,36 @@
 <p align="center">
   <!-- Coding GIF -->
-<img align="right" alt="coding" width="100%" src="https://i.pinimg.com/originals/39/38/77/3938775fa4484f170466ecfa6da4e662.gif" />
+  <img align="right" alt="coding" width="100%" src="https://i.pinimg.com/originals/39/38/77/3938775fa4484f170466ecfa6da4e662.gif" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Faith Mutua</h1>
 
-<
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=faithmutua-code&label=Profile%20views&color=0e75b6&style=flat" alt="faithmutua-code" />
 </p>
 
 
+
+
+
+I am a passionate web developer from Kenya.  
+My coding journey began with a spark of curiosity and a passion for creativity. What started as simple HTML experiments quickly grew into a full-blown love for building interactive user experiences with JavaScript and React.  
+Over time, I’ve immersed myself in the world of frontend development, constantly learning and pushing myself to master new tools and technologies. From late-night debugging sessions to that first "it works!" moment — every step has shaped the developer I am today.
+
 <hr>
 
-i am a passionate web developer from Kenya. 
-My coding journey began with a spark of curiosity and apassion for creativity. What started as simple HTML experiments quickly grew into a full-blown love for building interactive user experiences with JavaScript and React. Over time, I’ve immersed myself in the world of frontend development, constantly learning and pushing myself to master new tools and technologies. From late-night debugging sessions to that first "it works!" moment — every step has shaped the developer I am today.
+### 👨‍💻 Quick Facts
+
+- 👀 Interested in learning new web technologies and creating visually appealing web interfaces  
+- 🌱 Currently learning **Node.js, Express** and improving my **front-end skills**  
+- 🔍 Open to collaborating on web development projects and learning new skills  
+- 💬 Ask me about **React**  
+- 📫 Reach me at: **charlesfaith157@gmail.com**  
+- ⚡ Fun fact: **Dark theme all day, every day 😎**
 
 <hr>
-### 👨‍💻 Quick Facts:
-- 👀 Interested in learning new web technologies and creating visually appealing web interfaces.
-- 🌱 Currently learning **Node.js, Express** and improving my **front-end skills**.
-- 🔍 Open to collaborating on web development projects and learning new skills.
-- 💬 Ask me about **React**.
-- 📫 How to reach me: **charlesfaith157@gmail.com**.
-- ⚡ Fun fact: **Dark theme all day, every day** 😎.
 
----
-<hr>
-### 📱 Connect with me:
+### 📱 Connect with Me
 
 <p align="left">
   <a href="https://instagram.com/_faith_charles" target="blank">
@@ -35,9 +38,10 @@ My coding journey began with a spark of curiosity and apassion for creativity. W
   </a>
 </p>
 
----
 <hr>
-### 🛠️ Languages and Tools:
+
+### 🛠️ Languages & Tools
+
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -57,10 +61,8 @@ My coding journey began with a spark of curiosity and apassion for creativity. W
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-  <!-- Added VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="40" height="40"/> </a>
 </p>
-
 
 <hr>
 
@@ -69,4 +71,3 @@ My coding journey began with a spark of curiosity and apassion for creativity. W
   I'm always excited to connect, collaborate, and grow together with fellow developers. <br/>
   Keep coding, keep dreaming — the best is yet to come! 🚀
 </p>
-
