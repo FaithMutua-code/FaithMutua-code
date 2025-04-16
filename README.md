@@ -10,10 +10,10 @@
   <img src="https://komarev.com/ghpvc/?username=faithmutua-code&label=Profile%20views&color=0e75b6&style=flat" alt="faithmutua-code" />
 </p>
 
-<h3 align="center">A passionate web developer from Kenya</h3>
 
 
-<h3 align="center">A passionate web developer from Kenya</h3>
+
+i am a passionate web developer from Kenya
 My coding journey began with a spark of curiosity and apassion for creativity. What started as simple HTML experiments quickly grew into a full-blown love for building interactive user experiences with JavaScript and React. Over time, I’ve immersed myself in the world of frontend development, constantly learning and pushing myself to master new tools and technologies. From late-night debugging sessions to that first "it works!" moment — every step has shaped the developer I am today.
 
 ### 👨‍💻 Quick Facts:
