@@ -16,7 +16,7 @@ I am a passionate web developer from Kenya. My coding journey began with a spark
 ### 👨‍💻 Quick Facts
 
 - 👀 Interested in learning new web technologies and creating visually appealing web interfaces  
-- 🌱 Currently learning **Node.js, Express** and improving my **front-end skills**  
+- 🌱 Currently learning **Python** and improving my **front-end skills**  
 - 🔍 Open to collaborating on web development projects and learning new skills  
 - 💬 Ask me about **React**  
 - 📫 Reach me at: **charlesfaith157@gmail.com**  
