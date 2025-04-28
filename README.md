@@ -24,15 +24,9 @@ I am a passionate web developer from Kenya. My coding journey began with a spark
 
 <hr>
 
-### 📱 Connect with Me
 
-<p align="left">
-  <a href="https://instagram.com/_faith_charles" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_faith_charles" height="30" width="40" />
-  </a>
-</p>
 
-<hr>
+<br>
 
 ### 🛠️ Languages & Tools
 
@@ -59,6 +53,21 @@ I am a passionate web developer from Kenya. My coding journey began with a spark
 </p>
 
 <hr>
+<h2 align="center">👽 Where to find me 👽</h2>
+<br>
+<!-- https://icons8.com -->
+<div align="center">
+ 
+  <a href="https://github.com/FaithMutua-code" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/github.png" alt="jukie-github" />
+  </a>
+  <a href="https://instagram.com/_faith_charles" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="jukie-twitter" />
+  </a>
+  <a href="mailto:charlesfaith157@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="jukie-email" />
+  </a>
+</div>
 
 <p align="center">
   Thanks for visiting my profile! 😊<br/>
