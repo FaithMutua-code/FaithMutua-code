@@ -68,6 +68,7 @@ I am a passionate web developer from Kenya. My coding journey began with a spark
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="jukie-email" />
   </a>
 </div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faithmutua-code&" alt="faithmutua-code" /></p>
 
 <p align="center">
   Thanks for visiting my profile! 😊<br/>
