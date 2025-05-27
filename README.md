@@ -69,6 +69,7 @@ I am a passionate web developer from Kenya. My coding journey began with a spark
   </a>
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faithmutua-code&" alt="faithmutua-code" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faithmutua-code&show_icons=true&locale=en&layout=compact" alt="faithmutua-code" /></p>
 
 <p align="center">
   Thanks for visiting my profile! 😊<br/>
