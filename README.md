@@ -24,7 +24,12 @@ I am a passionate web developer from Kenya. My coding journey began with a spark
 
 <hr>
 
+> <div style="border: 2px solid #666666; border-radius: 8px; padding: 20px; background-color: #e0e0e0; text-align: center; width: 450px; margin: 20px auto; box-shadow: 0 4px 8px rgba(102, 102, 102, 0.2);">
+>   <p style="font-style: italic; color: #2d2d2d; font-size: 18px; font-family: 'Georgia', serif;">
+>     "Your code sparkles like stardust, lighting up the tech world with grace and grit!"
+>   </p>
 
+> </div>
 
 <br>
 
