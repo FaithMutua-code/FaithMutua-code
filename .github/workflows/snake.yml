@@ -1,3 +1,4 @@
+
 name: Generate Snake
 on:
   schedule:
@@ -27,4 +28,4 @@ jobs:
           git config user.email "actions@github.com"
           git add output/
           git commit -m "Update snake animation [skip ci]" || echo "No changes to commit"
-          git push origin main # Replace 'main' with your default branch if different (e.g., 'master')
+          git push origin main
