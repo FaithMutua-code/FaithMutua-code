@@ -22,6 +22,8 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: FaithMutua-code
+          svg_frames_duration: 100  # Animation speed in milliseconds (default is 30)
+          svg_frames_period: 1.5 
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
