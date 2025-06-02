@@ -57,7 +57,7 @@ I am a passionate web developer from Kenya. My coding journey began with a spark
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="40" height="40"/> </a>
 </p>
 
-
+![Snake animation](https://github.com/FaithMutua-code/FaithMutua-code/blob/output/github-snake.svg)
 
 <hr>
 <h2 align="center">👽 Where to find me 👽</h2>
