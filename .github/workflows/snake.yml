@@ -24,13 +24,10 @@ jobs:
           github_user_name: FaithMutua-code
           svg_frames_duration: 150 # Animation speed in milliseconds (default is 30)
           svg_frames_period: 3
-          svg_color_1: "#D8B4FE"  # Lightest purple (100-300)
-          svg_color_2: "#C084FC"  # Medium light (400)
-          svg_color_3: "#A855F7"  # Target purple-500
-          svg_color_4: "#9333EA"  # Darker (600-700)
+      
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+           dist/github-snake.svg?color_snake=#8B5CF6&color_dots=#DDD6FE,#C4B5FD,#8B5CF6,#7C3AED
+           dist/github-snake-dark.svg?palette=github-dark
       
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4.1.0
