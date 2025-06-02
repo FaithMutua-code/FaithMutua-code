@@ -24,6 +24,10 @@ jobs:
           github_user_name: FaithMutua-code
           svg_frames_duration: 150 # Animation speed in milliseconds (default is 30)
           svg_frames_period: 3
+          svg_color_1: "#E0AAFF"
+          svg_color_2: "#C77DFF"
+          svg_color_3: "#9D4EDD"
+          svg_color_4: "#7B2CBF"
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
