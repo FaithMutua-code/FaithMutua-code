@@ -9,18 +9,20 @@
   <img src="https://komarev.com/ghpvc/?username=faithmutua-code&label=Profile%20views&color=0e75b6&style=flat" alt="faithmutua-code" />
 </p>
 
-I am a passionate web developer from Kenya. My coding journey began with a spark of curiosity and a passion for creativity. What started as simple HTML experiments quickly grew into a full-blown love for building interactive user experiences with JavaScript and React.Over time, I’ve immersed myself in the world of frontend development, constantly learning and pushing myself to master new tools and technologies. From late-night debugging sessions to that first "it works!" moment — every step has shaped the developer I am today.
+I am a passionate web developer from Kenya. My coding journey began with a spark of curiosity and a passion for creativity. What started as simple HTML experiments quickly grew into a full-blown love for building interactive user experiences with JavaScript and React. Over time, I’ve immersed myself in the world of frontend development, constantly learning and pushing myself to master new tools and technologies. Recently, I've been exploring 3D design with Blender, experimenting with simple models, and diving into game development and interactive design with Unity. From late-night debugging sessions to that first "it works!" moment — every step has shaped the developer I am today.
+
 
 <hr>
 
 ### 👨‍💻 Quick Facts
 
-- 👀 Interested in learning new web technologies and creating visually appealing web interfaces  
-- 🌱 Currently learning **Python** and improving my **front-end skills**  
-- 🔍 Open to collaborating on web development projects and learning new skills  
-- 💬 Ask me about **React**  
-- 📫 Reach me at: **charlesfaith157@gmail.com**  
-- ⚡ Fun fact: **Dark theme all day, every day 😎**
+- 👀 Interested in learning new web technologies, creating visually appealing web interfaces, and exploring 3D design and game development  
+- 🌱 Currently learning *Python*, improving *front-end skills*, and diving into *Blender* and *Unity*  
+- 🔍 Open to collaborating on web development and 3D projects  
+- 💬 Ask me about *React* or *Unity*  
+- 📫 Reach me at: *charlesfaith157@gmail.com*  
+- ⚡ Fun fact: *Dark theme all day, every day 😎*
+
 
 <hr>
 
