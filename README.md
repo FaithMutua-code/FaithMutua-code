@@ -66,7 +66,7 @@ I am a passionate web developer from Kenya. My coding journey began with a spark
 
 ## 3d contribution graph
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green-animate.svg)
 
 ## 🐍 My GitHub Contributions Snake
 
