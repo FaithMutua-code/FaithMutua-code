@@ -64,6 +64,8 @@ I am a passionate web developer from Kenya. My coding journey began with a spark
 </a>
 </p>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ## 🐍 My GitHub Contributions Snake
 
 
