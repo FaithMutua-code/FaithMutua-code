@@ -64,7 +64,7 @@ I am a passionate web developer from Kenya. My coding journey began with a spark
 </a>
 </p>
 
-## 3d Contributions graph
+## 3D Contributions graph
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
