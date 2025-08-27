@@ -64,10 +64,12 @@ I am a passionate web developer from Kenya. My coding journey began with a spark
 </a>
 </p>
 
-## 3D Contributions graph
+## 🚀 My GitHub Activity in 3D (Night Rainbow Style)
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![3D GitHub Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
+
+  
 ## 🐍 My GitHub Contributions Snake
 
 
