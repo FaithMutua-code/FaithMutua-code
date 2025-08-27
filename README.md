@@ -64,7 +64,10 @@ I am a passionate web developer from Kenya. My coding journey began with a spark
 </a>
 </p>
 
-## 🚀 My GitHub Activity in 3D (Night Rainbow Style)
+<hr>
+<br>
+
+ ## My GitHub Activity in 3D (Night Rainbow Style)
 
 ![3D GitHub Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
