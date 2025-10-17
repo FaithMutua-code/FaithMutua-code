@@ -17,7 +17,7 @@ I am a passionate web developer from Kenya. My coding journey began with a spark
 ### 👨‍💻 Quick Facts
 
 - 👀 Interested in learning new web technologies, creating visually appealing web interfaces, and exploring 3D design and game development  
-- 🌱 Currently learning *Python*, improving *web-dev skills*, and diving into *Blender* and *Unity*  
+- 🌱 Currently learning *Machine Learning*, improving *web-dev skills*, and diving into *Blender* and *Unity*  
 - 🔍 Open to collaborating on web development and 3D projects   
 - 📫 Reach me at: *charlesfaith157@gmail.com*  
 - ⚡ Fun fact: *Dark theme all day, every day 😎*
