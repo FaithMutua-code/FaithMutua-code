@@ -8,8 +8,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=faithmutua-code&label=Profile%20views&color=0e75b6&style=flat" alt="faithmutua-code" />
 </p>
-
-I am a passionate web developer from Kenya. My coding journey began with a spark of curiosity and a passion for creativity. What started as simple HTML experiments quickly grew into a full-blown love for building interactive user experiences with JavaScript and React. Over time, I’ve immersed myself in the world of web development, constantly learning and pushing myself to master new tools and technologies. Recently, I've been exploring 3D design with Blender, experimenting with simple models, and diving into game development and interactive design with Unity Engine. From late-night debugging sessions to that first "it works!" moment — every step has shaped the developer I am today.
+I am a passionate software developer and AI/ML enthusiast from Kenya, driven by curiosity and creativity. What began as simple HTML experiments grew into a love for building interactive user experiences with JavaScript and React. Over time, I’ve expanded into broader software development, constantly learning and refining my skills. I’m particularly interested in artificial intelligence and machine learning, exploring how intelligent systems can solve real-world problems. Recently, I’ve also been experimenting with 3D design in Blender, and every late-night debugging session and “it works!” moment continues to shape me as a developer.
 
 
 <hr>
